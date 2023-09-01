@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kungkurt
 - 👀 I’m interested in embedded systems
-- 🌱 I’m currently learning yocto
+- 🌱 I’m currently learning intel HLS and yocto
 - 💞️ I’m looking to collaborate on ???
 - 📫 I’m all alone in this big world.
