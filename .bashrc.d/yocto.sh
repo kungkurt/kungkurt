@@ -1,12 +1,13 @@
 #!/bin/bash
 #
 # Author    : Robin Riis
-# Filename  : new_project.sh
+# Filename  : yocto.sh
 # Created   : 2023-06-03
 #
 # Description:
 # ------------
-#   a script for creating a new or initiating a yocto project
+#   yocto_init_project : creating a new or initiating a yocto project.
+#   yocto_get_images   : get available images.
 #
 # Exit codes:
 # -----------
